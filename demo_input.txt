@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) is one of the most transformative technologies of the 21st century. 
+From healthcare and education to business and entertainment, AI is reshaping industries and redefining 
+the way humans interact with machines. By using machine learning algorithms, natural language 
+processing, and computer vision, AI enables machines to learn from data, recognize patterns, and make 
+decisions with minimal human intervention. However, AI also raises ethical concerns related to 
+privacy, job displacement, and bias in decision-making.
